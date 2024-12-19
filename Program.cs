@@ -11,9 +11,9 @@ namespace KimMilyonerOlmakIster
 
             int correctAnswers = 0;
 
-            Console.WriteLine("1. Soru  hangisi bla bla ");
-            Console.WriteLine("a) asd");
-            Console.WriteLine("b) asd");
+            Console.WriteLine("1.  Kızınca tüküren hayvan hangisidir ? ");
+            Console.WriteLine("a) Lama ");
+            Console.WriteLine("b) Deve");
             string answers1 = Console.ReadLine().ToLower();
 
             if (answers1 == "a")
@@ -28,9 +28,9 @@ namespace KimMilyonerOlmakIster
                 
             }
 
-            Console.WriteLine("2. Soru  hangisi bla bla ");
-            Console.WriteLine("a) asd");
-            Console.WriteLine("b) asd");
+            Console.WriteLine("2. Dünya'ya en yakın gezegen hangisidir ? ");
+            Console.WriteLine("a) Venüs");
+            Console.WriteLine("b) Mars ");
             string answers2 = Console.ReadLine().ToLower();
             if (answers2 == "b")
             {
@@ -53,9 +53,9 @@ namespace KimMilyonerOlmakIster
 
             }
 
-            Console.WriteLine("3. Soru  hangisi bla bla ");
-            Console.WriteLine("a) asd");
-            Console.WriteLine("b) asd");
+            Console.WriteLine("3. 5 * 2 + 8 / 2 - 2 işleminin sonucu kaçtır ? ");
+            Console.WriteLine("a) 12 ");
+            Console.WriteLine("b) 7 ");
             string answers3 = Console.ReadLine().ToLower();
 
             if (answers3 == "a")
