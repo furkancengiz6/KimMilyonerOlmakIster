@@ -6,6 +6,7 @@ namespace KimMilyonerOlmakIster
     {
         static void Main(string[] args)
         {
+            //bu tür bir uygulama yazarken if-else blokları mantıklı bir seçimdir. Kullanıcının girdiği cevapları kontrol etmek ve duruma göre farklı işlemler yapmak için gayet uygundur.
             Console.WriteLine("KIM MILYONER OLMAK ISTER'E HOS GELDINIZ!");
             Console.WriteLine(" 3 sorudan 2'sini doğru cevaplar  ise 1 Milyon TL'lik büyük ödülü kazanacak!");
 
